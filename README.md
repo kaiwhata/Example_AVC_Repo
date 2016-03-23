@@ -1,6 +1,6 @@
 # Example_AVC_Repo
 An example project repository for the ENGR101 autonomous vehicle challenge (AVC) 2016.
-A picture of our ideal robot is shown [here](.../blob/master/robot.jpg). 
+A picture of our ideal robot is shown [here](/robot.jpg). 
 
 ###Week 1 Checklist
 - [x] Bonnie: Arrange team meetings 
