@@ -3,10 +3,16 @@ An example project repository for the ENGR101 autonomous vehicle challenge (AVC)
 
 
 ###Week 1 Checklist
-- [x] Bonnie: Arrange team meetings, check all have signed plan, assist with chassis design
-- [x] Darren: Produce code for straight line movement, research PID
-- [ ] Tyler: Setup team github repository, implement sensor averaging
-- [x] Leo: Assemble chassis and hardware, develop prototype chassis
+- [x] Bonnie: Arrange team meetings 
+- [x] Bonnie: Check all have signed plan 
+- [x] Bonnie: Assist with chassis design
+- [x] Darren: Produce code for straight line movement,
+- [ ] ~~Darren: Research PID~~ (no time this week, put in Week 2 checklist)
+- [ ] Tyler: Setup team github repository
+- [ ] ~~Tyler: implement sensor averaging~~ (reasssigned to Leo as Tyler's ill)
+- [x] Leo: Assemble chassis and hardware
+- [ ] Leo: Develop prototype chassis
+- [ ] Leo: Implement sensor averaging
 
 ###Week 2 Checklist
 - [ ] Bonnie: Arrange team digital meeting, check team member progress, plan for following week
