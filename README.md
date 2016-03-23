@@ -25,7 +25,7 @@ Have several hard copies of this available (or an easy-to-find soft copy).
 
 | Week  | Team Objective(s)  | Items Due | Conflicting Committments | Tasks |
 | :------------ |:---------------:| ------: | ------: | ------: |
-| 1   | Robot moving | AVC Plan Due | PHYS122 test | [Week 1 Checklist](../blob/master/README.md###Week 1 Checklist) | 
+| 1   | Robot moving | AVC Plan Due | PHYS122 test | [Week 1 Checklist](#week-1-checklist) | 
 | 2   |  |  | | ###Week 1 Checklist |
 | 3   | Quadrant 1 complete |  | | ###Week 1 Checklist |
 | ...     | ... | ... | ... | ... |
