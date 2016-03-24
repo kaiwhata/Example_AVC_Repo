@@ -19,17 +19,20 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 - [ ] Leo: Implement sensor averaging
 
 ####Week 1 Review (24th Apil 2016)
-Everyone other than Darren did all their assigned tasks this week.
-We have set goals for next week ([Week 2 Checklist](#week-2-checklist))
-Bonnie will help Leo to catchup
-All up to date files on Github
-Leo, Bonnie and Darren attended the team meeting this week (Tyler sent his apologies deue to illness)
-Leo, Bonnie, Daren and Tyler were at the lab this week.
-Everyone has signed the AVC plan, we're working on the Background section of the progress report now. We have decided not to share them wthin the group.
+* Everyone other than Darren did all their assigned tasks this week.
+* We have set goals for next week ([Week 2 Checklist](#week-2-checklist))
+* Bonnie will help Leo to catchup
+* All up to date files on Github (Woot! We made our first real code commit today!)
+* Leo, Bonnie and Darren attended the team meeting this week (Tyler sent his apologies deue to illness)
+* Leo, Bonnie, Daren and Tyler were at the lab this week.
+* Everyone has signed the AVC plan, we're working on the Background section of the progress report now. We have decided not to share them within the group.
 
 ###Week 2 Checklist
-- [ ] Bonnie: Arrange team digital meeting, check team member progress, plan for following week
+- [ ] Bonnie: Arrange team digital meeting 
+- [ ] Bonnie: Check team member progress
+- [ ] Bonnie: Plan for following week (setup checklist)
 - [ ] Darren: Suggest order of method development
+- [ ] Darren: Research PID
 - [ ] Tyler: Update github with progress from last meeting
 - [ ] Leo: Finalise chassis design
 
