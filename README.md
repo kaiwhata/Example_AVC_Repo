@@ -4,17 +4,28 @@ An example project repository for the ENGR101 autonomous vehicle challenge (AVC)
 
 A picture of our ideal robot is shown [here](/robot.jpg). 
 
+
+
 ###Week 1 Checklist
 - [x] Bonnie: Arrange team meetings 
 - [x] Bonnie: Check all have signed plan 
 - [x] Bonnie: Assist with chassis design
 - [x] Darren: Produce code for straight line movement,
 - [ ] ~~Darren: Research PID~~ (no time this week, put in Week 2 checklist)
-- [ ] Tyler: Setup team github repository
+- [x] Tyler: Setup team github repository
 - [ ] ~~Tyler: implement sensor averaging~~ (reasssigned to Leo as Tyler's ill)
 - [x] Leo: Assemble chassis and hardware
 - [ ] Leo: Develop prototype chassis
 - [ ] Leo: Implement sensor averaging
+
+####Week 1 Review (24th Apil 2016)
+Everyone other than Darren did all their assigned tasks this week.
+We have set goals for next week ([Week 2 Checklist](#week-2-checklist))
+Bonnie will help Leo to catchup
+All up to date files on Github
+Leo, Bonnie and Darren attended the team meeting this week (Tyler sent his apologies deue to illness)
+Leo, Bonnie, Daren and Tyler were at the lab this week.
+Everyone has signed the AVC plan, we're working on the Background section of the progress report now. We have decided not to share them wthin the group.
 
 ###Week 2 Checklist
 - [ ] Bonnie: Arrange team digital meeting, check team member progress, plan for following week
@@ -23,10 +34,7 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 - [ ] Leo: Finalise chassis design
 
 ###Week 3 Checklist
-- [ ] Bonnie: check team member progress, plan for following week, assist with chassis assembly
-- [ ] Darren: Develop robot movement code
-- [ ] Tyler: Develop and test networking code, update github with progress against goals
-- [ ] Leo: Characterise motors, chassis build commenses
+
 
 ###AVC Project Timetable
 Overall project plan
