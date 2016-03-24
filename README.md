@@ -19,7 +19,7 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 - [ ] Leo: Implement sensor averaging
 
 ####Week 1 Review (24th Apil 2016)
-* Everyone other than Darren did all their assigned tasks this week.
+* Everyone other than Leo did all their assigned tasks this week.
 * We have set goals for next week ([Week 2 Checklist](#week-2-checklist))
 * Bonnie will help Leo to catchup
 * All up to date files on Github (Woot! We made our first real code commit today!)
