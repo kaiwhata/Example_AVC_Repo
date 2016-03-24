@@ -36,7 +36,7 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 - [ ] Tyler: Update github with progress from last meeting
 - [ ] Leo: Finalise chassis design
 
-###Week 3 Checklist
+###Week 3 Checklist (work in progress - Bonnie)
 
 
 ###AVC Project Timetable
