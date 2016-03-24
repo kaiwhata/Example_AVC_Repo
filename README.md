@@ -1,6 +1,6 @@
 # Example_AVC_Repo
 An example project repository for the ENGR101 autonomous vehicle challenge (AVC) 2016.
-
+This is a snapshot of a project taken part way through Week 2. The team has assessed their progress on their Week 1 objects, and has set and are working towards week 2 objective and are looking towards their week 3 objectives.
 
 A picture of our ideal robot is shown [here](/robot.jpg). 
 
@@ -24,7 +24,7 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 * Bonnie will help Leo to catchup
 * All up to date files on Github (Woot! We made our first real code commit today!)
 * Leo, Bonnie and Darren attended the team meeting this week (Tyler sent his apologies deue to illness)
-* Leo, Bonnie, Daren and Tyler were at the lab this week.
+* Leo, Bonnie and Darren were at the lab this week.
 * Everyone has signed the AVC plan, we're working on the Background section of the progress report now. We have decided not to share them within the group.
 
 ###Week 2 Checklist
@@ -52,7 +52,8 @@ Overall project plan
 
 ###Weekly Progress Checklist
 - [ ] How has each team member performed against their goal set last week?
-- [ ] Have you set a goal for each team member for this week?
+- [ ] Have you set a goal for each team member for this/next week?
+- [ ] Has the team discussed which tasks are the most important or urgent?
 - [ ] Do any team members need more help to complete their assigned task(s)?
 - [ ] Have you updated the task list on Github this week?
 - [ ] Are all relevant code, bot photos and design files on the team Github?
